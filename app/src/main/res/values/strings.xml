@@ -1,0 +1,42 @@
+<resources>
+    <!-- nav bar -->
+    <string name="openNavDrawer">Navigation Drawer Open</string>
+    <string name="closeNavDrawer">Navigation Drawer Close</string>
+
+    <string name="app_name">Doctor_appointments</string>
+    <string name="btn_Login">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">password</string>
+    <string name="btn_Signup">Sign up</string>
+    <string name="textView_Signup">You don\'t have an account? Sign Up instead!</string>
+    <string name="textView_Login">Already have an account? Log in instead!</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <!--     activity_setup_profile    -->
+    <string name="setup_Name">Name</string>
+    <string name="setup_City">City</string>
+    <string name="setup_PhoneNumber">Phone Number</string>
+    <string name="setup_BirthDate">Birthdate DD/MM/YYYY</string>
+    <string name="setup_Save">Save</string>
+    <!--     activity_setup_profile    -->
+    <string name="WelcomeLogOut">Log out</string>
+    <string name="Welcome">Welcome : </string>
+    <!--     custom_dialog_loading -->
+    <string name="checkAccount">Checking account...</string>
+    <string name="home">Home</string>
+    <string name="LogOut">LogOut</string>
+    <string name="Hospitals">Hosptitals</string>
+    <string name="menu">Menu</string>
+    <string name="change">Change</string>
+    <string name="delete">Delete</string>
+    <string name="FullName">Full name</string>
+    <string name="Email">Email</string>
+    <string name="Profile">Profile</string>
+    <string name="Doctors">Doctors</string>
+    <string name="book">book</string>
+    <string name="update">update</string>
+    <string name="loadingdata">loading data</string>
+    <string name="cancel">cancel</string>
+    <string name="Exit">Exit</string>
+    <string name="setup_Cancel">Cancel</string>
+
+</resources>
